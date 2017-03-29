@@ -1,4 +1,4 @@
-# McCormickLab-code
+# McCormickLab-PupilCode
 
 Uploaded by David Salkoff on March 17, 2017
 
